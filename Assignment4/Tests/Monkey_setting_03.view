@@ -1,0 +1,14 @@
+# We are looking at anything that has (x,y) within
+# the following region.  This is a box that stretches
+# infinitely in the z-dimension.
+w   -1.0   -0.5    1.0    0.5
+
+# Canvas size ...
+c    850   720
+
+# For display, we are leaving a 10% border about the
+# active area.
+s    0.10    0.10    0.90    0.90
+
+# Camera distance is ...
+d   1.25
